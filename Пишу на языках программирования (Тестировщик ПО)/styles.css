@@ -1,0 +1,17 @@
+body {
+	background-color: #89cff0;
+}
+h1 {
+	color: #b00000;
+}
+p {
+	color: red;
+	font-family: sans-serif;
+}
+.black-paragraph {
+	color: black;
+	font-family: monospace;
+}
+#family {
+	color: gray;
+}

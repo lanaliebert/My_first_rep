@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<meta charset="utf-8">
+	<title>Моя первая страница</title>
+</head>
+<body>
+	<h1>Это моя первая страница</h1>
+	<img src="apartment night.png" alt="beautiful background art" width="1100" height="200">
+	<p>Я буду <i>совершенствоваться </i>дальше!</p>
+	<p>Я стану <b>тестировщиком!</b></p>
+	<table>
+		<tr>
+			<th>Company</th>
+			<th>Contact</th>
+			<th>Country</th>
+		</tr>
+		<tr>
+			<td>ячейка_1</td>
+			<td>ячейка_2</td>
+			<td>ячейка_3</td>
+		</tr>
+		<tr>
+			<td>ячейка_4</td>
+			<td>ячейка_5</td>
+			<td>ячейка_6</td>
+		</tr>
+	</table>
+	<a href="page1.html">Ссылка на страницу 2</a>
+	<p class="black-paragraph"> Здесь будет информация обо мне</p>
+	<p class="black-paragraph"> Как меня зовут, откуда я, и так далее</p>
+	<h2 id="family">Моя семья</h2>
+</body>
+</html>
